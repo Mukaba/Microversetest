@@ -1,3 +1,3 @@
 # Microversetest
 
-this is an microverse exercice
+this is a microverse exercice
